@@ -203,4 +203,9 @@ public class Employee implements Serializable {
 		this.addressBean = addressBean;
 	}
 
+	public void setAddress(Address2 address2) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
